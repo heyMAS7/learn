@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8038f31c-e5f9-46f9-ab1c-eaded4a1c374" name="Changes" comment="11" />
+    <list default="true" id="8038f31c-e5f9-46f9-ab1c-eaded4a1c374" name="Changes" comment="8">
+      <change beforePath="$PROJECT_DIR$/New Text Document2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/New Text Document2.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="rebase" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,17 +26,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Web DEV/gitto"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Web DEV\gitto" />
-    </key>
-  </component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="gitto" />
@@ -171,63 +167,7 @@
       <option name="project" value="LOCAL" />
       <updated>1753979987465</updated>
     </task>
-    <task id="LOCAL-00015" summary="9">
-      <option name="closed" value="true" />
-      <created>1754062570214</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1754062570214</updated>
-    </task>
-    <task id="LOCAL-00016" summary="10">
-      <option name="closed" value="true" />
-      <created>1754062597347</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1754062597347</updated>
-    </task>
-    <task id="LOCAL-00017" summary="11">
-      <option name="closed" value="true" />
-      <created>1754062622961</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1754062622961</updated>
-    </task>
-    <task id="LOCAL-00018" summary="10">
-      <option name="closed" value="true" />
-      <created>1754062637816</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1754062637816</updated>
-    </task>
-    <task id="LOCAL-00019" summary="12">
-      <option name="closed" value="true" />
-      <created>1754062802390</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1754062802390</updated>
-    </task>
-    <task id="LOCAL-00020" summary="13">
-      <option name="closed" value="true" />
-      <created>1754062812289</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1754062812289</updated>
-    </task>
-    <task id="LOCAL-00021" summary="11">
-      <option name="closed" value="true" />
-      <created>1754062828101</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1754062828101</updated>
-    </task>
-    <option name="localTasksCounter" value="22" />
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,19 +175,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="main" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -265,11 +193,6 @@
     <MESSAGE value="6" />
     <MESSAGE value="7" />
     <MESSAGE value="8" />
-    <MESSAGE value="9" />
-    <MESSAGE value="10" />
-    <MESSAGE value="12" />
-    <MESSAGE value="13" />
-    <MESSAGE value="11" />
-    <option name="LAST_COMMIT_MESSAGE" value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="8" />
   </component>
 </project>
